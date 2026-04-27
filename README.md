@@ -88,9 +88,9 @@ For strict tool workflows, `toolCallingForced=true` is a strong quality indicato
 ## Where to Go Next
 
 - [Overview](./overview.md)
-- [Personal: Installation](../personal/installation.md)
-- [Personal: LLM Selection](../personal/llm-selection.md)
-- [Personal: Install Skills](../personal/install-skills.md)
-- [Personal: Task Automation](../personal/task-automation.md)
-- [Business: Server Deployment](../business/server-deployment.md)
+- [Personal: Installation](personal/installation.md)
+- [Personal: LLM Selection](personal/llm-selection.md)
+- [Personal: Install Skills](personal/install-skills.md)
+- [Personal: Task Automation](personal/task-automation.md)
+- [Business: Server Deployment](business/server-deployment.md)
 - [API Reference: Edgent Bridge](../api-reference/edgent-bridge.md)
